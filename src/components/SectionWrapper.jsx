@@ -19,7 +19,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, revers
           {showBtn && (
             <Button
               assetUrl={assets.expo}
-              link="https://expo.dev/@kebels/TodoApp2-0?serviceType=classic&distribution=expo-go"
+              link="https://expo.dev/@kebels/nft-source-nat?serviceType=classic&distribution=expo-go"
             />
           )}
         </div>
